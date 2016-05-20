@@ -2,8 +2,8 @@
 //  ListViewController.m
 //  CoffeeFindr
 //
-//  Created by Johnny Appleseed on 11/12/14.
-//  Copyright (c) 2014 MobileMakers. All rights reserved.
+//  Created by Mohamed Ayadi on 05/20/16.
+//  Copyright (c) Mohamed Ayadi. All rights reserved 
 //
 
 #import "ListViewController.h"
